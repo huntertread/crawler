@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "node.js web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntertread/crawler.git"
+  },
+  "author": "Hunter Treadaway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntertread/crawler/issues"
+  },
+  "homepage": "https://github.com/huntertread/crawler#readme"
+}
